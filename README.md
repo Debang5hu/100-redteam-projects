@@ -2,7 +2,7 @@
 <p align="center"> 
     <img src="/images/red.png">
 </p>
-                                                                       
+
 # 100  Red Team Projects for Pentesters and Network Managers
 
 Red Teaming is one of the most attractive fields in offensive security or ethical hacking. 
@@ -48,12 +48,12 @@ Level 1 | Basic | Example
 Level 2 | Essential | Example
 ------------------------------------------------|------------------------------------------------|-----------------------------------------
 [11] | Simple port scanner | :heavy_check_mark:
-[12] | Port scanner with OS fingerprint using TTL (Time To Live) | :x:
-[13] | Port scanner with port footprint (HTTP? DNS? FTP? IRC?) | :x:
+[12] | Port scanner with OS fingerprint using TTL (Time To Live) | :heavy_check_mark: 
+[13] | Port scanner with port footprint (HTTP? DNS? FTP? IRC?) | :heavy_check_mark: 
 [14] | Simple Web Directory brute-forcer (Threaded) | :heavy_check_mark:
 [15] | Recursive Web Directory brute-forcer (Threaded peer recursion) | :heavy_check_mark:
 [16] | Web Login bruteforce tool | :x:
-[17] | FTP Login bruteforce tool | :x:
+[17] | FTP Login bruteforce tool | :heavy_check_mark:
 [18] | SSH Login bruteforce tool | :heavy_check_mark:
 [19] | FTP User footprint | :x:
 [20] | MYSQL User footprint | :x:
@@ -123,7 +123,7 @@ Level 4 | Data analysis, payloads and more networking | Example
 [72] | Develop a Worm with auto replication over email | :x:
 [73] | Simple Disassembler | :x:
 [74] | Server for DDoS with multi-staged operations and multi-threaded handling of clients | :x:
-[75] | Password hash cracker | :x:
+[75] | Password hash cracker | :heavy_check_mark:
 [76] | Direct code injection exploit | :x:
 [77] | Android daemon payload | :x:
 [78] | Browser exploitation tool | :x:
